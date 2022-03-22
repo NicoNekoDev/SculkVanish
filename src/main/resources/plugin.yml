@@ -1,0 +1,6 @@
+name: SculkVanish
+version: 1.0
+author: NicoNekoDev
+main: ro.nico.sculkvanish.SculkVanishPlugin
+api-version: 1.17
+description: Quick fix between Sculk Sensors and Vanish plugins.
